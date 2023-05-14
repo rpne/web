@@ -6,4 +6,6 @@ https://decentraleyes.org/ - херь которая не гоняет броу�
 https://www.audacityteam.org/ - аудиоредактор убирает клипинг в звуке
 https://ru.wikipedia.org/wiki/Flowblade - видеоредактор
 https://musescore.org/ru/download - редактор музыкальных нот
-https://virt-manager.org/ - виртуальные машинки
+https://virt-manager.org/ - виртуальные машинки + пакет qemu и удаляем нах apt purge virt-viewer
+bleachbit - утилита для очистки системы
+https://packages.debian.org/stable/hardinfo  посмотреть железо ПК
